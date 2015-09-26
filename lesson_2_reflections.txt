@@ -1,0 +1,24 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a git directory for the folder.
+
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+this allows you to add then commit each file one at a time even if multiple changes were made
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+new or expiremental feature branches
+
+How do the diagrams help you visualize the branch structure?
+help with parents and reachablility
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+it is combining one thing with another effectively giving it 2 parents
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+time and efficiency vs. a rare hangup when something is accidentaly merged you didn't want.
+
+

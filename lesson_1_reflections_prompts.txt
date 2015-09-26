@@ -1,0 +1,53 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    far easier than manually doing it
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    of course
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Both have good use cases depending on the source of errors or failure. Auto save 
+    will be best in unstable environments where loss due to falure is a major concern,
+    but manual errors are less difficult to find. Manual commits will be better when 
+    the time it takes to compair each individual change is the main concern.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    The priority of project versions as a collection of files vs single file projects.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    It allows you to see when and by whom the changes have been made and what changed.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    It keeps it easy to revert to past versions or fix the new one.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    A simple Udacity FED Nanodegree project.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+	less stress from tracking inevitable bugs
+
+How can you use the commands git log and git diff to view the history of files?
+
+	Git log gives you an overview of past commits. Git diff allows you to see the individual changes.
+
+How might using version control make you more confident to make changes that could break something?
+
+	With all previous versions recorded you can always reverse or recover from your mistakes.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+	I'm not sure that this changes my view of git but, it reminded me I like vim.
+
